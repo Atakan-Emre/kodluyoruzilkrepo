@@ -1,23 +1,24 @@
-# Kodluyoruz Manav Kasa Programı Ödevi
+# Kodluyoruz Ilk Repo
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Java ile Backend Web Development Patikası Eğitiminde oluşturduğumuz Repodur. İçerisinde bir adet Java dosyası vardır.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+![github](figures/github.png)
 
 ## Installation
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-git clone https://github.com/Atakan-Emre/Manavkasa.git
+git clone https://github.com/Atakan-Emre/kodluyoruzilkrepo.git
 ```
 
 ## Usage
 
-Projeyi cloneladıktan sonra Intellij Idea programında açınız.
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```linux
-cd Manavkasa
+cd kodluyoruzilkrepo
 code .
 ```
 
